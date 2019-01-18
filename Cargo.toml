@@ -1,9 +1,9 @@
 [package]
 edition = "2018"
 
-version = "0.1.0"
+version = "0.1.1"
 name = "sensible-dbg"
-description = "Fork of the std::dbg macro that has no effect on release builds (as it should be)."
+description = "Fork of the std::dbg macro that has no effect on release builds."
 
 authors = ["Cauê Baasch de Souza <cauebs@pm.me>"]
 repository = "https://github.com/cauebs/sensible-dbg"
