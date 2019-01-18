@@ -1,0 +1,13 @@
+[package]
+edition = "2018"
+
+version = "0.1.0"
+name = "sensible-dbg"
+description = "Fork of the std::dbg macro that has no effect on release builds (as it should be)."
+
+authors = ["Cauê Baasch de Souza <cauebs@pm.me>"]
+repository = "https://github.com/cauebs/sensible-dbg"
+license = "MIT"
+readme = "README.md"
+
+[dependencies]
