@@ -4,6 +4,7 @@ If you read [the discussion on `std`'s new `dbg!` macro](https://github.com/rust
 you'll find that there are good reasons why it shouldn't affect release builds.
 As a silent protest against the decision, I made my own version.
 
+Update: not too long after, I came around to accept that decision, but I'm leaving this repository here as a reminder that I am often wrong.
 
 # Usage
 
